@@ -15,4 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of Amboj Pipeline.
 
 
-JAVA AMBOJ....PLEASE CHECK THE PUSH STATUS....
+java jesu . please dont push the code in my org
